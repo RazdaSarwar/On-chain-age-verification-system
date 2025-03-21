@@ -23,3 +23,7 @@ To provide a decentralized, transparent, and privacy-preserving age verification
 0x3684B85436792594C135f93433c18c1475Cc0fc4
 
 <img width="1440" alt="Screenshot 2025-03-20 at 3 52 22 PM" src="https://github.com/user-attachments/assets/022c93b2-c022-4870-a078-9331a5931464" />
+
+## Frontend
+<img width="1440" alt="Screenshot 2025-03-21 at 3 33 23 PM" src="https://github.com/user-attachments/assets/a9a2618d-8106-46b4-b9b5-c2bf1bfefe99" />
+
