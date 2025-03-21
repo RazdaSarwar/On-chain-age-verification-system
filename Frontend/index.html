@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Contract Interaction</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    <h1>Smart Contract DApp</h1>
+    <div id="connect-container">
+      <button id="connectWallet">Connect Wallet</button>
+    </div>
+    <div id="interaction-container">
+      <h2>Interact with the Smart Contract</h2>
+      <label for="dataInput">Set Data:</label>
+      <input type="text" id="dataInput" placeholder="Enter value" />
+      <button id="setData">Submit</button>
+      <div id="output">
+        <h3>Current Data:</h3>
+        <p id="currentData">No data yet</p>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
